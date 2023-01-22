@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on International Institute of Information Technology<br><br>🌱 I’m currently learning Web Development<br><br>📫 How to reach me alshabehera7@gmail.com
+🔭I am a sophomore at International Institute of Information and Technology - Computer Engineering Branch<br><br>🌱 I’m currently learning Web Development<br><br>📫 How to reach me alshabehera7@gmail.com
 
 
 ## 🌐 Socials:
