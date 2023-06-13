@@ -17,6 +17,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alshabehera&icon=0&color=0)](https://visitcount.itsvg.in)
 
-https://holopin.io/@alshabehera
+[![An image of @alshabehera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alshabehera)](https://holopin.io/@alshabehera)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
