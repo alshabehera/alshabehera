@@ -15,8 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshabehera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=alshabehera&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alshabehera&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://holopin.io/@alshabehera)
+https://holopin.io/@alshabehera
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
