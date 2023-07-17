@@ -1,22 +1,67 @@
-# 💫 About Me:
-🔭I am a sophomore at International Institute of Information and Technology - Computer Engineering Branch<br><br>🌱 I’m currently learning Web Development<br><br>📫 How to reach me alshabehera7@gmail.com
+<h1 align="center">Alsha Behera</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer"></h3>
+
+<!--About-->
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alsha_behera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsha-behera-5b862522b/) 
+<!-- GitHub Readme Streak Stats-->
+## 🔥 Streak stats
 
-# 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alshabehera&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alshabehera&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshabehera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/alshabehera">
+    <img  alt="alshabehera's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alshabehera&theme=highcontrast&hide_border=true"/>
+  </a>
+  
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=alshabehera&icon=0&color=0)](https://visitcount.itsvg.in)
+</br>
 
-[![An image of @alshabehera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alshabehera)](https://holopin.io/@alshabehera)
+<!--Skills-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Languages and Tools:
+<p align="left">
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/></a>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> </a> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+</p>
+
+
+</br>
+
+<!--Github Stats-->
+## 📊 Github stats
+
+
+<details open=""> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/alshabehera"><img align="center" alt="alshabehera's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=alshabehera&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/alshabehera"><img align="center" height="192px" alt="alshabehera's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshabehera&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
+  <br/>
+  </p>
+ 
+</details>
+
+</br>
+
+<!--social-->
+## 🙋‍ Connect with me:
+
+<p align="center">
+<a href="mailto:alshabehera7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/alsha-behera-5b862522b/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://instagram.com/alsha_behera" target= "_blank"><img src="https://img.shields.io/badge/alsha_behera-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href ="https://github.com/alshabehera"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://holopin.me/alshabehera"/>
+
+</p>
