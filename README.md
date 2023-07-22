@@ -32,6 +32,7 @@
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://icon-library.com/images/java-icon-png/java-icon-png-3.jpg" width="70" height="60" alt="JAVA"/>
 </p>
 
 
